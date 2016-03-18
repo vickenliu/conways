@@ -12,3 +12,6 @@ function out(index, array) { // check if a single array is out of bounds
 }
 
 module.exports = indicesOutOfBounds
+
+
+
