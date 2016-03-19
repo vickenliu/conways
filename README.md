@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Conways game of life!
 
 ## Concepts
@@ -34,3 +35,6 @@ Look at the tests! What are they expecting back from each function?
 Start with easy functions that don't depend on any other functions. overPopulated, underPopulated and ressurectable are good ones to start with.
 
 You can run all the test with ```npm test``` or you can run any single test file with the node command eg ```node test/overPopulated.js```
+=======
+# conways
+>>>>>>> dc5056f57c7a658ea08a0f70541b97dd83df8910
